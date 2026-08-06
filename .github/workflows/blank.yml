@@ -1,4 +1,3 @@
-cd /Users/liamtaylor/.openclaw/workspace/liamjamestaylor-com
 git init
 git add .
 git commit -m "Initial site"
