@@ -335,7 +335,7 @@
 
   // ─── CONSOLE MESSAGE (for curious visitors) ───
   console.log(
-    '%c Liam James Taylor %c\n\nWriter. Student. Building something that lasts.\n\nIf you are reading this, you found the back door.\nThere is nothing here for you to take.\n\n— LJT',
+    '%c Liam James Taylor %c\n\nWriter.\n\nIf you are reading this, you found the back door.\nThere is nothing here for you.\n\n— LJT',
     'background: #f5f5f0; color: #0a0a0a; font-size: 14px; padding: 4px 8px; font-weight: bold;',
     'color: #888; font-size: 11px;'
   );
